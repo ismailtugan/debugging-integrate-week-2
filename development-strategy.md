@@ -61,21 +61,21 @@ __A User can see my initial repository and live demo__
 
 ### Repository
 
-- [ ] developed on a branch called `intro`
+- [x] developed on a branch called `intro`
 
 ### HTML
 
-- [ ] created buttons in HTML
-- [ ] title
-- [ ] meta's
-- [ ] links to css and js files
+- [x] created buttons in HTML
+- [x] title
+- [x] meta's
+- [x] links to css and js files
 
 ### CSS
 
-- [ ] n/a
+- [x] 
 
 ### JS
-- [ ] n/a
+- [x] n/a
 
 
   
